@@ -1,0 +1,12 @@
+.background{
+    background: url("avenger_bg.jpg");
+    background-position: center;
+    background-size: cover;
+}
+#canvas{
+    border: 10px solid;
+    background-color: aliceblue;
+}
+span{
+    color: black;
+}
